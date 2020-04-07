@@ -18,6 +18,7 @@ public class operaciones {
 			System.out.println("Introduzca el divisor: ");
 			int n2 = input.nextInt();
 			int division = n1/n2;
+			System.out.println("El resultado de la division es: ");
 			System.out.println(division);
 
 		}
